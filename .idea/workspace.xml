@@ -20,9 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c571809-3fad-44a0-8e11-001b77343964" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/views/stocks/_list.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/stocks_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/stocks_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/users/_result.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/_result.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/welcome_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/welcome_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/stock.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/stock.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/_navigation.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_navigation.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/users/my_portfolio.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/my_portfolio.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+      <change beforePath="F:/Projects/Ruby-projects/Web_apps/first_web_app/app/controllers/application_controller.rb" beforeDir="false" afterPath="F:/Projects/Ruby-projects/Web_apps/first_web_app/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="F:/Projects/Ruby-projects/Web_apps/first_web_app/app/controllers/articles_controller.rb" beforeDir="false" afterPath="F:/Projects/Ruby-projects/Web_apps/first_web_app/app/controllers/articles_controller.rb" afterDir="false" />
+      <change beforePath="F:/Projects/Ruby-projects/Web_apps/first_web_app/app/controllers/categories_controller.rb" beforeDir="false" afterPath="F:/Projects/Ruby-projects/Web_apps/first_web_app/app/controllers/categories_controller.rb" afterDir="false" />
+      <change beforePath="F:/Projects/Ruby-projects/Web_apps/first_web_app/app/views/layouts/application.html.erb" beforeDir="false" afterPath="F:/Projects/Ruby-projects/Web_apps/first_web_app/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="F:/Projects/Ruby-projects/Web_apps/first_web_app/config/webpacker.yml" beforeDir="false" afterPath="F:/Projects/Ruby-projects/Web_apps/first_web_app/config/webpacker.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +49,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1g8rOy8inht4R7Dx56Li8LmJitv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,10 +60,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="project.settings.patched" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9c571809-3fad-44a0-8e11-001b77343964" name="Default Changelist" comment="" />
@@ -67,12 +88,14 @@
       <workItem from="1599243233974" duration="225000" />
       <workItem from="1599281860747" duration="4694000" />
       <workItem from="1599629786280" duration="2041000" />
-      <workItem from="1600069733878" duration="3416000" />
+      <workItem from="1600069733878" duration="6466000" />
+      <workItem from="1600168616447" duration="23000" />
+      <workItem from="1600168695425" duration="8032000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
