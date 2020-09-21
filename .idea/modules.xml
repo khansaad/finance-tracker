@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/finance-tracker.iml" filepath="$PROJECT_DIR$/.idea/finance-tracker.iml" />
-      <module fileurl="file://F:/Projects/Ruby-projects/Web_apps/first_web_app/.idea/first_web_app.iml" filepath="F:/Projects/Ruby-projects/Web_apps/first_web_app/.idea/first_web_app.iml" />
     </modules>
   </component>
 </project>

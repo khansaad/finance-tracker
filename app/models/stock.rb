@@ -12,11 +12,16 @@ class Stock < ApplicationRecord
     )
     #client.quote(ticker_symbol)
     #client.quote(ticker_symbol).latest_price
+    ticker_symbol.upcase!
     begin
       new(ticker: ticker_symbol, name: client.quote(ticker_symbol).company_name, last_price: client.quote(ticker_symbol).latest_price)
     rescue => exception
       return nil
     end
 
+  end
+
+  def self.check_db(ticker_symbol)
+    where(ticker: ticker_symbol).first
   end
 end
