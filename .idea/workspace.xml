@@ -20,16 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c571809-3fad-44a0-8e11-001b77343964" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/finance-tracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/finance-tracker.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/user_stocks_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/user_stocks_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/stock.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/stock.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/stocks/_list.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/stocks/_list.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/users/_result.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/_result.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/devise/registrations/edit.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/devise/registrations/edit.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/_navigation.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_navigation.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,10 @@
       <workItem from="1600168616447" duration="23000" />
       <workItem from="1600168695425" duration="8874000" />
       <workItem from="1600229718834" duration="9982000" />
-      <workItem from="1600423322687" duration="7998000" />
+      <workItem from="1600423322687" duration="8473000" />
+      <workItem from="1601447697021" duration="2463000" />
+      <workItem from="1601532035090" duration="5336000" />
+      <workItem from="1601548161115" duration="2734000" />
     </task>
     <servers />
   </component>
@@ -118,25 +121,33 @@
       <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
     <state x="-1075" y="388" width="558" height="383" key="#Notifications/0.0.1920.1040/-1920.5.1920.1040@-1920.5.1920.1040" timestamp="1600325115840" />
+    <state x="-1368" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601532133971">
+      <screen x="-1920" y="5" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.5.1920.1040@-1920.5.1920.1040" timestamp="1601532133971" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597507609146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597507609146" />
-    <state width="852" height="279" key="GridCell.Tab.0.bottom" timestamp="1597812184376">
+    <state width="1237" height="279" key="GridCell.Tab.0.bottom" timestamp="1601447840959">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1237" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.5.1920.1040@0.0.1920.1040" timestamp="1601447840959" />
     <state width="852" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597812184376" />
-    <state width="852" height="279" key="GridCell.Tab.0.center" timestamp="1597812184376">
+    <state width="1237" height="279" key="GridCell.Tab.0.center" timestamp="1601447840959">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1237" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.5.1920.1040@0.0.1920.1040" timestamp="1601447840959" />
     <state width="852" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597812184376" />
-    <state width="852" height="279" key="GridCell.Tab.0.left" timestamp="1597812184376">
+    <state width="1237" height="279" key="GridCell.Tab.0.left" timestamp="1601447840958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1237" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.5.1920.1040@0.0.1920.1040" timestamp="1601447840958" />
     <state width="852" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597812184376" />
-    <state width="852" height="279" key="GridCell.Tab.0.right" timestamp="1597812184376">
+    <state width="1237" height="279" key="GridCell.Tab.0.right" timestamp="1601447840959">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1237" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.5.1920.1040@0.0.1920.1040" timestamp="1601447840959" />
     <state width="852" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597812184376" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1597769525113">
       <screen x="0" y="0" width="1920" height="1040" />
