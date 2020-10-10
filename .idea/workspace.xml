@@ -21,15 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9c571809-3fad-44a0-8e11-001b77343964" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/friendships_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/friendships_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/stock.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/stock.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/friends/_list.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/_list.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/_navigation.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_navigation.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/users/_result.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/_result.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/users/my_friends.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/my_friends.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/welcome/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/welcome/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/stocks/_list.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/stocks/_list.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/users/_friend_results.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/_friend_results.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +101,7 @@
       <workItem from="1601548161115" duration="6166000" />
       <workItem from="1601788992118" duration="601000" />
       <workItem from="1602135394909" duration="13330000" />
-      <workItem from="1602310915007" duration="13485000" />
+      <workItem from="1602310915007" duration="15223000" />
     </task>
     <servers />
   </component>
@@ -174,5 +169,19 @@
       <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
     <state x="-1081" y="247" key="run.anything.popup/0.0.1920.1040/-1920.5.1920.1040@-1920.5.1920.1040" timestamp="1600426745209" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/app/views/stocks/_list.html.erb</url>
+          <line>17</line>
+          <properties myBlockOrdinal="-1">
+            <option name="block-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
