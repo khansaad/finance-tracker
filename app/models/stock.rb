@@ -14,7 +14,8 @@ class Stock < ApplicationRecord
     #client.quote(ticker_symbol).latest_price
     ticker_symbol.upcase!
     begin
-      new(ticker: ticker_symbol, name: client.quote(ticker_symbol).company_name, last_price: client.quote(ticker_symbol).latest_price)
+      new(ticker: ticker_symbol, name: client.quote(ticker_symbol).company_name,
+          last_price: client.quote(ticker_symbol).latest_price)
     rescue => exception
       return nil
     end
