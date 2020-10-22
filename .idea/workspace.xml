@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c571809-3fad-44a0-8e11-001b77343964" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/friends/_list.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/_list.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/stocks/_list.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/stocks/_list.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/users/_friend_results.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/_friend_results.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
